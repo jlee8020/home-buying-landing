@@ -5,4 +5,5 @@
 ![Landing Page](images/landing-page.png)
 ![Subscription](images/subscribe-page.png)
 
-
+# Deployed Link
+Thanks for checking it out [here](https://jlee8020.github.io/home-buying-landing/)
