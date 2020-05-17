@@ -11,9 +11,10 @@ html {
 
 }
 
-h2{
+h1{
   font-size: 2rem;
   color: whitesmoke;
+  text-shadow: 2px 2px 1px rgb(95,96,99);
 }
 hr{
   border-color: rgb(108,117,125,1);
